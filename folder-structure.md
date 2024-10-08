@@ -3,7 +3,7 @@
 ```
 RenderForge/
 │
-├── BlenderCLI.sln                  # Solution file
+├── RenderForgeCLI.sln                  # Solution file
 ├── src/
 │   ├── RenderForge/
 │   │   ├── RenderForge.csproj       # Project file
