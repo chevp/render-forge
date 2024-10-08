@@ -1,3 +1,6 @@
+# Folder Structure
+
+```
 RenderForge/
 │
 ├── BlenderCLI.sln                  # Solution file
@@ -33,3 +36,4 @@ RenderForge/
     │   └── Converters/              # Unit tests for converters
     │       ├── BlendToGltfConverterTests.cs
     │       └── BlendToJsonConverterTests.cs
+```
